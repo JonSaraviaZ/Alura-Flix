@@ -3,7 +3,7 @@ import styles from './Pie.module.css';
 function Pie(){
     return(
         <footer className={styles.Pie}>
-            <a href="./"><img src="/img/LogoAluraFlix.png" alt="Logo Alura"></img></a>
+            <a className={styles.logoPie} href="./"><img src="/img/LogoAluraFlix.png" alt="Logo Alura"></img></a>
             <div className={styles.contenedor}>
                 <p>Desarrollado por Jonathan Saravia</p>
                 <div className={styles.enlaces}>
