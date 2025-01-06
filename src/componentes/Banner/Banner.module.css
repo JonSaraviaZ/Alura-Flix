@@ -1,0 +1,92 @@
+.capa {
+    width: 100%;
+    height: 576px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.gradient {
+    height: 100%;
+    width: 100%;
+    opacity: .8;
+}
+
+.titulo{
+    position: absolute;
+    top: 25%;
+    left: 22%;
+    transform: translate(-50%, -50%);
+    color: var(--negro);
+    font-size: 2.5rem;
+    font-weight: 700;
+    text-align: center;
+    background-color: var(--azul);
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.subtitulo{
+    position: absolute;
+    top: 45%;
+    left: 22%;
+    transform: translate(-50%, -50%);
+    color: var(--negro);
+    font-size: 1.5rem;
+    font-weight: 400;
+    text-align: center;
+    background-color: var(--azul);
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.video{
+    position: absolute;
+    top: 25%;
+    right: 5%;
+}
+
+/* ----Responsividad ----- */
+
+@media screen and (max-width: 375px){
+    .capa{
+        display: none;
+    }
+}
+
+@media (min-width: 376px) and (max-width: 1023px){
+    .capa{
+        display: none;
+    }
+}
+
+@media (min-width: 1024px) and (max-width: 1439px){
+
+    .titulo{
+        font-size: 1.5rem;
+    }
+
+    .subtitulo{
+        font-size: 1rem;
+    }
+    .video{
+        height: 250px;
+        width: 350px;
+    }
+} 
+
+@media (min-width: 2560px){
+    .titulo{
+        position: absolute;
+        top: 10%;
+    }
+
+    .subtitulo{
+        position: absolute;
+        top: 25%;
+    }
+
+    .video{
+        position: absolute;
+        top: 10%;
+    }
+}

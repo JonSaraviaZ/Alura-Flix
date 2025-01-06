@@ -1,0 +1,51 @@
+{ "videos":[
+    {
+        "id": 1,
+        "titulo": "Green Day - Boulevard Of Broken Dreams",
+        "categoria": "Punk Rock",
+        "imagen":"https://dojiw2m9tvv09.cloudfront.net/36300/product/X_greenday24121.jpg?29&time=1735590207",
+        "video": "https://www.youtube.com/watch?v=Soa3gO7tL-c",
+        "descripcion": "Watch the official music video for Boulevard Of Broken Dreams by Green Day from the album American Idiot. "
+    },
+    {
+        "id": 2,
+        "titulo": "Green Day - Basket Case",
+        "categoria": "Punk Rock",
+        "imagen":"https://www.efeeme.com/wp-content/uploads/green-day-16-04-14-b.jpg",
+        "video": "https://www.youtube.com/watch?v=NUTGr5t3MoY",
+        "descripcion": "Watch the official music video for Basket Case by Green Day from the album Dookie."
+    },
+    {
+        "id": 3,
+        "titulo": "Avril Lavigne - Complicated ",
+        "categoria": "Rock",
+        "imagen":"https://i1.sndcdn.com/artworks-quv3eGT2hz2UCZjn-xlT8Nw-t500x500.jpg",
+        "video": "https://www.youtube.com/watch?v=5NPBIwQyPWE",
+        "descripcion": "Watch the official HD Video for Complicated by Avril Lavigne"
+    },
+    {
+        "id": 4,
+        "titulo": "Avril Lavigne - Sk8er Boi",
+        "categoria": "Rock",
+        "imagen":"https://upload.wikimedia.org/wikipedia/en/b/b4/Sk8er_boi_cover.jpg",
+        "video": "https://www.youtube.com/watch?v=TIy3n2b7V9k",
+        "descripcion": "Watch the official video for Sk8er Boi by Avril Lavigne "
+    },
+    {
+        "id": 5,
+        "titulo": "Rihanna - Umbrella (Orange Version) (Official Music Video) ft. JAY-Z",
+        "categoria": "Pop",
+        "imagen":"https://static.posters.cz/image/750webp/2760.webp",
+        "video": "https://www.youtube.com/watch?v=CvBfHwUxHIk",
+        "descripcion": "Watch the official video of Umbrella by Rihanna "
+    },
+    {
+        "id": 6,
+        "titulo": "Rihanna - Work (Explicit) ft. Drake",
+        "categoria": "Pop",
+        "imagen":"https://www.lahiguera.net/musicalia/artistas/rihanna/disco/6804/portada-m.jpg",
+        "video": "https://www.youtube.com/watch?v=HL1UzIK-flA",
+        "descripcion": "Watch the official video for Work by Rihanna ft. Drake "
+    }
+]
+}

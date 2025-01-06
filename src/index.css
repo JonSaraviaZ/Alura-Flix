@@ -1,0 +1,27 @@
+:root{
+  --font:"Roboto", sans-serif;
+  --blanco:#F5F5F5;
+  --negro:#262626;
+  --gris:#A5A5A5;
+  --azul: rgb(235, 173, 16);
+  --bordes--caja: #6BD1FF;
+  --color--titulo--editar: #2271D1;
+  --color--titulo--crear--tarjeta: #F5F5F5;
+}
+
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  background-color: var(--negro);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
