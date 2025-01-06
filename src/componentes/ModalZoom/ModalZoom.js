@@ -120,11 +120,12 @@ const ModalZoom = ({editarVideo, video}) => {
           </div>
         </form>
         {alertaVisible && (
-            <Stack sx={{ width: '38%', 
+            <Stack sx={{ 
+              width: { xs: '90%', sm: '70%', md: '38%' }, 
               backgroundColor: 'white', 
               color: 'black',
               borderColor: 'black',
-              marginLeft: '220px',
+              marginLeft: { xs: '5%', sm: '15%', md: '220px' },
               borderRadius: '10px',
               }} spacing={2}>
               <Alert variant="outlined" severity="info">Video editado correctamente</Alert>
