@@ -1,6 +1,6 @@
 # AluraFlix
 
-Este proyecto corresponde a la evaluación final de la formación Front-End de Alura Latam:
+Este proyecto corresponde a la evaluación final de la formación Front-End de Alura Latam, y fue realizado con [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,styledcomponents,materialui,npm,visualstudio,stackoverflow,git,github,discord,figma&perline=6)](https://skillicons.dev).
 
 # VersiónMovil:
 
