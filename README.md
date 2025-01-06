@@ -2,9 +2,15 @@
 
 Este proyecto corresponde a la evaluación final de la formación Front-End de Alura Latam:
 
+# VersiónMovil:
+
 <img width="428" alt="ImgMovil" src="https://github.com/user-attachments/assets/0c846145-18e6-4955-a0e6-6c39cd0315c2" />
 
+# VersiónTablet:
+
 <img width="772" alt="ImgTablet" src="https://github.com/user-attachments/assets/2e177116-e1cd-4187-9753-53594c4aaac9" />
+
+# VersiónEscritorio:
 
 <img width="1439" alt="ImgEscritorio1" src="https://github.com/user-attachments/assets/31f748bb-4fb8-4291-aae2-3a5680acc54c" />
 
